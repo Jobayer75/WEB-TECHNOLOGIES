@@ -1,0 +1,174 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  <style media="screen">
+      table, tr, td {
+        border: 1px solid black;
+      }
+</style>
+  </head>
+  <body>
+    <header>
+<h1>Jobayer Bio</h1>
+
+    <main>
+      <div>
+        <h2>My Schedule:</h2>
+        <h3>Joyaddar Md Jobayer</h3> <br>
+        <table>
+          <tr>
+            <colgroup>
+              <col style="background-color: blue">
+<td></td>
+
+              </colgroup>
+
+            <th scope="col"> 10:00 - 11:20</th>
+            <th scope="col">11:30- 1:00</th>
+            <th scope="col">2:00- 3:20</th>
+            <th scope="col">3:30-5:00</th>
+            <th scope="col">5:30-7:00</th>
+            <th scope="col">7:30-11:00</th>
+
+
+
+          </tr>
+           <tr>
+            <td>Monday</td>
+            <td>Web Tech</td>
+            <td>Break</td>
+            <td>Multimedia Technology</td>
+            <td>break</td>
+            <td>Break/Entertainment</td>
+            <td>Study, Exercise</td>
+          </tr>
+            <tr>
+            <td>Tuesday</td>
+            <td>PMIT</td>
+            <td>Managemnet information system</td>
+            <td>Database Programming</td>
+            <td>Break</td>
+            <td>Assignments</td>
+              <td>Exercise,Doing MIS, Web Tech</td>
+          </tr>
+          <tr>
+            <td>Wednesday</td>
+            <td>Web Tech</td>
+            <td>Break</td>
+            <td>Multimedia Technology</td>
+            <td>break</td>
+            <td>Break/Entertainment</td>
+            <td>Study, Exercise</td>
+          </tr>
+          <tr>
+            <td>Thursday</td>
+            <td>PMIT</td>
+            <td>Managemnet information system</td>
+            <td>Database Programming</td>
+            <td>Break</td>
+            <td>Assignments</td>
+              <td>Exercise,Doing MIS, Web Tech</td>
+          </tr>
+          <tr>
+            <td>Friday</td>
+            <td colspan="3">Trading cryptocurrency</td>
+
+            <td>Study</td>
+              <td>Break</td>
+               <td>Study/Trading cryptocurrency</td>
+          </tr>
+           <tr>
+              <td>Saturday</td>
+              <td>Usrah 3</td>
+              <td>Break</td>
+              <td>Assignments/Group Project</td>
+              <td>Study</td>
+                <td>Break</td>
+                 <td>Study, Exercise/td>
+            </tr>
+              <tr>
+                <td>Sunday</td>
+                <td colspan="4">Assignments, Homework, Family Time</td>
+                <td>Entertainment</td>
+
+                <td>Hang Out</td>
+              </tr>
+
+        </table>
+        <main><BR>
+        <b>Appointment:<b/>
+              <br>
+              <div>
+                <h3>Do you want to meet with me for study purpose?</h3>
+                <h4>Please fill up this form!!!</h4>
+                <form  action="response.html" method="post">
+                  <br> <br>
+                  <label for="name">Name</label>
+                  <input type="text" name="name">  <br> <br>
+                  <label for="person">Persons' more information</label>
+                  <input type="text" name="person">  <br> <br>
+                  <label for="phoneNo">Phone Number</label>
+                  <input type="text" name="phoneNo">  <br> <br>
+                  <label for="date">Preferred Date</label>
+                  <input type="date" name="date">  <br> <br>
+                  <label for="time">Preferred Time</label>
+                  <input type="time" name="time">  <br> <br>
+                  <label for="reason">Reason for appoinment</label>
+                  <select  name="reason">
+        <option value="1">For Group Study</option>
+                  <option value="2">Study</option>
+                  <option value="">Discussion</option>
+                  <option value="">Assignments</option>
+                  <option value="">Need Help</option>
+                  </select>
+
+                  <br> <br> <label for="message">Give me a message of you want</label>
+                    <br><textarea name="message" rows="8" cols="35"></textarea><br> <br><br>
+                    <button type="submit" name="Submit">Make an appointment</button>
+
+                </form>
+
+              </div>
+
+            </main>
+      </div>
+
+    </main>
+    <main><br>
+    <b>Contact:<b/>
+
+      <div class="">
+        <!-- Your email using email link --><br>
+
+        Email: <a href="jobayerjoyaddar75@gmail.com
+    ">jobayerjoyaddar75@gmail.com
+    </a>
+        <br><br>
+
+        <!-- Insert external link to your social media using anchor <a> -->
+
+        <a href="https://www.facebook.com/mohammd.badhon/">My Facebook</a>
+
+        <br><br>
+        Address:<br>
+        Block B, Mahallah Ali, IIUM.<br>
+        Kualalampur, Malaysia.<br>
+
+        Phone Number: 01164009242<br>
+        Permanent Address: Daulatpur<br>
+        Kushtia, Bangladesh.<br>
+        <br>
+        <br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.3884354922857!2d101.72749861336682!3d3.2532767534143257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc38c09ff366b5%3A0xebf4b45f23b31c79!2sKulliyyah%20of%20Information%20and%20Communication%20Technology%20-%20KICT!5e0!3m2!1sen!2smy!4v1604274692230!5m2!1sen!2smy" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+      </div>
+
+    </main>
+  <br>  <footer>Copyright 2020-2021</footer>
+
+
+  </body>
+</html>
